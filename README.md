@@ -18,7 +18,7 @@ Eu sou o Gabriel Américo Nogueira, atualmente estudante de Análise e Desenvolv
 
 ##
 
-#### 🙇🏾‍♂️ Ferramentas que eu estudo.
+### 🙇🏾‍♂️ Técnologias que eu estudo.
 
 
 <div style="display: inline_block"><br>
