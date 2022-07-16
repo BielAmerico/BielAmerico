@@ -5,7 +5,7 @@ Eu sou o Gabriel Américo Nogueira, atualmente estudante de Análise e Desenvolv
 
 - 🔎 A procura da minha primeira oportunidade.
 - 📫 Envie um email para: bielgan@hotmail.com
-- 📚 Estudando Java + Spring Boot, Html5 , Css3 , Js e React.
+- 🙇🏾‍♂️ Obrigado por acessar o meu git.
 
 ##
 
@@ -18,7 +18,7 @@ Eu sou o Gabriel Américo Nogueira, atualmente estudante de Análise e Desenvolv
 
 ##
 
-### 🙇🏾‍♂️ Técnologias que eu estudo.
+### 📚 Técnologias que eu estudo.
 
 
 <div style="display: inline_block"><br>
