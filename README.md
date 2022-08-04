@@ -1,9 +1,7 @@
 ### Olá, seja bem-vindo! 👋🏾
 
-Eu sou o Gabriel Américo Nogueira, atualmente estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista de São José dos Campos - SP, estou na procura da minha primeira oportunidade de emprego.
+Eu sou o Gabriel Américo Nogueira, atualmente estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista de São José dos Campos - SP, e trabalho na empresa Thinklife como dev estagiário.
 
-
-- 🔎 A procura da minha primeira oportunidade.
 - 📫 Envie um email para: bielgan@hotmail.com
 - 🙇🏾‍♂️ Obrigado por acessar o meu git.
 
