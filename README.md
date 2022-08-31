@@ -30,6 +30,7 @@ Eu sou o Gabriel Américo Nogueira, atualmente estudante de Análise e Desenvolv
 ##
 
 <div>
+  ### Redes sociais
   <a href="https://www.instagram.com/gabriamerican/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:bielgan@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-am%C3%A9rico-a70b07145/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
