@@ -29,7 +29,7 @@ Eu sou o Gabriel Américo Nogueira, atualmente estudante de Análise e Desenvolv
 
 ##
   
-  ### Redes sociais
+  ### 🌎 Redes sociais
 
 <div>
  
