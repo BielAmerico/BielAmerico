@@ -14,16 +14,7 @@ Eu sou o Gabriel Américo Nogueira, atualmente estudante de Análise e Desenvolv
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielAmerico&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-##
 
-### 📚 Técnologias que eu estudo
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Biel-JAVA" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="Biel-MySQL" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Biel-SQLSERVER" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-          
 
 ##
   
