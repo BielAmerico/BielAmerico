@@ -21,7 +21,9 @@ Eu sou o Gabriel Américo Nogueira, atualmente estudante de Análise e Desenvolv
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Biel-JAVA" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-  <img align="center" alt="Biel-JAVA" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Biel-MySQL" height="30" width="40"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Biel-SQLSERVER" height="30" width="40" <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+          
   <src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
 </div>
 
