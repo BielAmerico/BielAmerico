@@ -2,6 +2,10 @@
 
 Eu sou o Gabriel Américo Nogueira, atualmente estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista de São José dos Campos - SP, e trabalho na empresa Thinklife como dev estagiário.
 
+Tecologias que eu estudo atualmente:
+
+- JAVA/SPRING BOOT, SQL, POSTMAN, E GIT.
+
 - 📫 Envie um email para: bielgan@hotmail.com
 - 🙇🏾‍♂️ Obrigado por acessar o meu git.
 
