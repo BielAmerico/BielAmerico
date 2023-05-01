@@ -4,7 +4,7 @@ Eu sou o Gabriel Américo Nogueira, atualmente estudante de Análise e Desenvolv
 
 Tecologias que eu estudo atualmente:
 
-- JAVA/SPRING BOOT, SQL, POSTMAN, E GIT.
+- JAVA/SPRING BOOT, SQL, E GIT.
 
 - 📫 Envie um email para: bielgan@hotmail.com
 - 🙇🏾‍♂️ Obrigado por acessar o meu git.
