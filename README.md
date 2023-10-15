@@ -1,10 +1,19 @@
 ### Olá, seja bem-vindo! 👋🏾
 
-Eu sou o Gabriel Américo Nogueira, atualmente estudante de Análise e Desenvolvimento de Sistemas na Universidade Paulista de São José dos Campos - SP, e trabalho na empresa Thinklife como dev estagiário.
+Eu sou o Gabriel Américo Nogueira, analista de Sistemas formado pela na Universidade Paulista de São José dos Campos - SP.
 
-Tecologias que eu estudo atualmente:
+Tecologias utilizadas em experiências de trabalho e estudos/projetos pessoais:
 
-- JAVA/SPRING BOOT, SQL, E GIT.
+Linguagens: JAVA e C#.
+Framework: Spring Framework, Spring Boot.
+Banco de dados relacionais: Oracle PL-SQL, MySQL, SQLserver e PostgreSQL.
+API rest e restfull.
+Versionamento: Git / Github.
+Testes unitários : jUnit5 e Mockito.
+Docker.
+Wordpress.
+Postman, iReport.
+Metodologias Ágeis: Kanban.
 
 - 📫 Envie um email para: bielgan@hotmail.com
 - 🙇🏾‍♂️ Obrigado por acessar o meu git.
